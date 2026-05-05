@@ -1,8 +1,8 @@
 # Lida Rezaei
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lidarezaei)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/lida.rezaei.5)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@lidarzd)
+[![Facebook](https://img.shields.io/badge/Facebook-1B2A41?style=flat&logo=facebook&logoColor=white)](https://facebook.com/lida.rezaei.5)
+[![YouTube](https://img.shields.io/badge/YouTube-F8BBD0?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@lidarzd)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lida.rezaei.d@gmail.com)
 [![Github](https://img.shields.io/badge/Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/lidarezaeii)
 
