@@ -4,7 +4,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/lida.rezaei.5)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@lidarzd)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lida.rezaei.d@gmail.com)
-[![Follow](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lidarezaeii)
+[![Github](https://img.shields.io/badge/Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/lidarezaeii)
 
 ---
 
