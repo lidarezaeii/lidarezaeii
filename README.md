@@ -12,24 +12,36 @@ Data & Machine Learning Engineer with a strong background in Physics and experie
 Focused on building scalable data pipelines, machine learning models, and real-world AI applications using Python.
 Current direction: Data Engineering → Machine Learning → Generative AI
 
+🚀 What I'm Doing Now
+    - 🤖 Building and refining my ML & Data Engineering portfolio through real-world projects.
+    - 📊 Focused on applying Machine Learning, NLP, and Data Engineering in practical systems.
 
-🤖 Featured Projects
+📚 Featured Projects I'm Working On
 - Streamlit Data Dashboard — Data Visualization & Analytics  
 - Fake News Detection — Machine Learning / NLP  
 - Fidibo Web Scraping — Data Collection & Automation  
 - Resume Auto Review System — NLP / Text Processing  
 - Telegram Bot — Python Automation  
 
-
 ⚡ Current Focus
 Data Engineering · Machine Learning · NLP · Python Production Projects
 
+💻 Skills
+
+<img src="https://img.shields.io/badge/Skills-MacBook-000000?style=flat&logo=apple&logoColor=white" />
+
+- Data Analysis & Data Engineering  
+- Machine Learning (Supervised / Unsupervised)  
+- Natural Language Processing (NLP)  
+- Python Development  
+- Data Visualization  
+- ETL Pipelines & Web Scraping  
 
 ⚙️ Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 
 
 
 ---
-LIDA
+📫 Reach me: [lida.rezaei.d@gmail.com](mailto:lida.rezaei.d@gmail.com)
