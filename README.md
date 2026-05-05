@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lida
 
-# Data Engineer & Machine Learning Engineer  
+# Data & Machine Learning Engineer  
 Python | Data | ML | AI | GenAI 
 
 ---
