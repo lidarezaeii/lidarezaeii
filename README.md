@@ -1,89 +1,71 @@
 # Lida Rezaei
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/lidarezaeii]
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lidarezaeii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lidarezaei)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/lida.rezaei.5)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@lidarzd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lida.rezaei.d@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lidarezaei)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/lida.rezaei.5)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@lidarzd)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lida.rezaei.d@gmail.com)
-
+---
 
 ## About Me
-Data & ML Engineer with a strong background in Physics and experience in analytics and business operations.  
-Passionate about building real-world data systems, machine learning models, and AI-driven applications.
+Data & Machine Learning Engineer with a background in Physics and experience in analytics and data-driven systems.
 
-My goal is to grow from Data Engineering → Machine Learning → Generative AI & LLMs.
+Focused on building scalable data pipelines, machine learning models, and real-world AI applications using Python.
 
----
-
-## 📂 Featured Projects
-- 📊 Streamlit Data Dashboard (Python, Data Visualization)
-- 📰 Fake News Detection (Machine Learning / NLP)
-- 🌐 Fidibo Web Scraping (Data Collection & Automation)
-- 📄 Resume Auto Review System (NLP / Text Analysis)
-- 🤖 Telegram Bot (Automation / Python)
+Current direction: Data Engineering → Machine Learning → Generative AI / LLMs
 
 ---
 
-## 📈 Current Focus
-- Data Engineering  
-- Machine Learning fundamentals
-- NLP & Chatbot systems  
-- Scalable Python projects  
+## Featured Projects
+- Streamlit Data Dashboard — Data Visualization & Analytics
+- Fake News Detection — Machine Learning / NLP
+- Fidibo Web Scraping — Data Collection & Automation
+- Resume Auto Review System — NLP & Text Processing
+- Telegram Bot — Python Automation
 
 ---
 
-## 🏆 Achievements
+## Current Focus
+- Data Engineering & ETL pipelines  
+- Machine Learning fundamentals  
+- NLP & text-based AI systems  
+- Production-level Python projects  
 
-![Olympiad](https://img.shields.io/badge/Math%20Olympiad-Semifinalist-blue?style=for-the-badge)
-![Physics](https://img.shields.io/badge/Physics%20Magazine-Editor--in--Chief-purple?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-Winner-orange?style=for-the-badge)
-![Chess](https://img.shields.io/badge/Chess-Winner-black?style=for-the-badge)
+---
 
-## 🌍 Languages
+## Achievements
+<img src="https://cdn.simpleicons.org/academia/000000" height="16"/> Math Olympiad Semifinalist  
+<img src="https://cdn.simpleicons.org/physics/000000" height="16"/> Physics Magazine Editor-in-Chief  
+<img src="https://cdn.simpleicons.org/robotframework/000000" height="16"/> Robotics Competition Winner  
+<img src="https://cdn.simpleicons.org/chessdotcom/000000" height="16"/> Chess Competition Winner  
 
-![English](https://img.shields.io/badge/English-Professional-green?style=for-the-badge)
-![Italian](https://img.shields.io/badge/Italian-B1-blue?style=for-the-badge)
-![Persian](https://img.shields.io/badge/Persian-Native-red?style=for-the-badge)
-![Turkish](https://img.shields.io/badge/Turkish-Professional-yellow?style=for-the-badge)
+---
+
+## Languages
+<img src="https://cdn.simpleicons.org/english/000000" height="16"/> English — Professional  
+<img src="https://cdn.simpleicons.org/italian/000000" height="16"/> Italian — B1 (Intermediate)  
+<img src="https://cdn.simpleicons.org/python/000000" height="16"/> Persian — Native  
+<img src="https://cdn.simpleicons.org/turkishairlines/000000" height="16"/> Turkish — Professional  
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Programming
+<img src="https://cdn.simpleicons.org/python/3776AB" height="16"/> Python  
+<img src="https://cdn.simpleicons.org/postgresql/4479A1" height="16"/> SQL  
 
----
-
-### Data Science & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
+### Data Science / ML
+<img src="https://cdn.simpleicons.org/numpy/013243" height="16"/> NumPy  
+<img src="https://cdn.simpleicons.org/pandas/150458" height="16"/> Pandas  
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="16"/> Scikit-learn  
 
 ### Data Engineering
-![ETL](https://img.shields.io/badge/ETL-Pipelines-blue?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Data-green?style=for-the-badge)
-
----
+ETL Pipelines · Web Scraping · Data Cleaning  
 
 ### AI / NLP / CV
-![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-2C3E50?style=for-the-badge)
-
----
+NLP · Computer Vision (OpenCV)  
 
 ### Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
+Jupyter · Streamlit · Git · GitHub · Linux · VS Code · Conda
