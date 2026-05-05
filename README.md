@@ -1,5 +1,4 @@
-Lida Rezaei
-
+**Lida Rezaei**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lidarezaei)
 [![Facebook](https://img.shields.io/badge/Facebook-C0C0C0?style=flat&logo=facebook&logoColor=white)](https://facebook.com/lida.rezaei.5)
 [![YouTube](https://img.shields.io/badge/YouTube-F8BBD0?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@lidarzd)
@@ -7,7 +6,7 @@ Lida Rezaei
 [![Github](https://img.shields.io/badge/Follow-FFFFFF?style=flat&logo=github&logoColor=000000)](https://github.com/lidarezaeii)
 
 
-✨ About Me
+## ✨ About Me
 Data & Machine Learning Engineer with a strong background in Physics and experience in analytics and data-driven systems.
 Focused on building scalable data pipelines, machine learning models, and real-world AI applications using Python.
 Current direction: Data Engineering → Machine Learning → Generative AI
