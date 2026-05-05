@@ -16,28 +16,22 @@ Current direction: Data Engineering → Machine Learning → Generative AI
 - 🤖 Building and refining my ML & Data Engineering portfolio through real-world projects.
 - 📊 Focused on applying Machine Learning, NLP, and Data Engineering in practical systems.
   
-⚡  Featured Projects I'm Working On
+⚡ Featured Projects I'm Working On
 - Streamlit Data Dashboard — Data Visualization & Analytics  
-- Fake News Detection — Machine Learning / NLP  
+- Fake News Detection — Machine Learning
 - Fidibo Web Scraping — Data Collection & Automation  
-- Resume Auto Review System — NLP / Text Processing  
-- Telegram Bot — Python Automation  
+- Telegram Bot — Python Automation
+- Resume Auto Review System — Text Processing  
 
 💻 Skills
 
-✔ Data & Analytics: Statistical Data Analysis · Data Modeling · Data Cleaning 
-
-✔ Data Engineering: ETL Pipelines · Data Pipelines · Web Scraping · Data Collection · Data Processing 
-
-✔ Machine Learning & AI: Basic Machine Learning · Model Training & Evaluation (Basic) · NLP (Natural Language Processing)
-
-✔ Programming: Python Development · Object-Oriented Programming (OOP) · SQL · API Integration (Basic)
-
-✔ Data Visualization: Matplotlib · Seaborn · Streamlit Dashboards
-
-✔ Tools & Platforms: Jupyter Notebook · Git · GitHub · Linux · VS Code · Conda · Jira · Confluence
-
-✔ Domain Knowledge: Accounting & Corporate Finance · Research & Experimental Data Analysis · Physics-based Data Systems
+- Data & Analytics: Statistical Data Analysis · Data Modeling 
+- Data Engineering: ETL Pipelines · Data Pipelines · Web Scraping · Data Processing 
+- Machine Learning & AI: Basic Machine Learning · NLP (Natural Language Processing)
+- Programming: Python Development · Object-Oriented Programming (OOP) · SQL
+- Data Visualization: Matplotlib · Seaborn · Streamlit Dashboard
+- Tools & Platforms: Jupyter Notebook · Git · GitHub · Linux · VS Code · Conda · Jira · Confluence
+- Domain Knowledge: Accounting & Corporate Finance · Research & Experimental Data Analysis · Physics-based Data Systems
 
 ⚙️ Tech Stack
 
