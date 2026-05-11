@@ -10,7 +10,7 @@
 ## ✨ About Me
 Data & Machine Learning Engineer with a strong background in Physics and experience in analytics and data-driven systems.
 Focused on building scalable data pipelines, machine learning models, and real-world AI applications using Python.
-Current direction: Data Engineering → Machine Learning → Generative AI
+# Current direction: Data Engineering → Machine Learning → Generative AI
 
 🚀 What I'm Doing Now
 - 🤖 Building and refining my ML & Data Engineering portfolio through real-world projects.
